@@ -12,7 +12,7 @@
     "imageSrc": "projects/reelbites.png",
     "description": "Short-form food video platform with real-time comments, auto-play feed, and high-performance backend using MongoDB aggregation.",
     "skills": ["React", "Node.js", "Express", "Socket.IO", "MongoDB"],
-    "demo": "https://github.com/karans18/Reelbites",
+    "demo": "https://reelbites-wheat.vercel.app",
     "source": "https://github.com/karans18/Reelbites"
   },
   {
