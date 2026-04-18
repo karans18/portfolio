@@ -51,15 +51,15 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 400px; /* fixed size for consistency */
+  height: 400px; /* make it square */
+  object-fit: cover; /* ensures image fills properly */
+  border-radius: 50%; /* makes it circle */
+  overflow: hidden;
   z-index: 1;
 
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  animation: floating 3s ease-in-out infinite;
 }
-
 @keyframes floating {
   0% {
     transform: translate(0, 0px);

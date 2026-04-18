@@ -26,7 +26,9 @@
 }
 
 .aboutImage {
-  width: 35%;
+  width: 25%;
+  mix-blend-mode: screen; /* removes the dark background around the image */
+  filter: drop-shadow(0 0 10px rgba(0,0,0,0.3)); /* optional: subtle shadow */
 }
 
 .aboutItems {
