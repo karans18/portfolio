@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Interview.ai",
+    "imageSrc": "projects/interviewai.png",
+    "description": "AI-powered interview preparation platform that generates role-specific questions, skill gap analysis, and personalized study roadmaps.",
+    "skills": ["React", "Node.js", "MongoDB", "Express", "Gemini API"],
+    "demo": "https://interviewprep-genai.vercel.app/",
+    "source": "https://github.com/karans18/interview-io"
+  },
+  {
+    "title": "ReelBites",
+    "imageSrc": "projects/reelbites.png",
+    "description": "Short-form food video platform with real-time comments, auto-play feed, and high-performance backend using MongoDB aggregation.",
+    "skills": ["React", "Node.js", "Express", "Socket.IO", "MongoDB"],
+    "demo": "https://github.com/karans18/Reelbites",
+    "source": "https://github.com/karans18/Reelbites"
+  },
+  {
+    "title": "Banking Ledger API",
+    "description": "Secure double-entry bookkeeping system with ACID transactions, idempotent APIs, and JWT-based authentication.",
+    "skills": ["Node.js", "Express", "MongoDB", "JWT", "System Design"],
+    "source": "https://github.com/karans18/Backend_Banking_ledger"
+  }
+]

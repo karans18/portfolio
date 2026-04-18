@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Jio Platforms Limited",
+    "startDate": "Aug 2021",
+    "endDate": "Sept 2023",
+    "experiences": [
+      "Built scalable React.js applications with optimized performance and responsive UI components",
+      "Integrated REST APIs using React Query & Redux Toolkit, improving user satisfaction by 95%",
+      "Reduced bundle size by 25% using code splitting and lazy loading",
+      "Implemented real-time features and role-based access control (RBAC)"
+    ],
+    "imageSrc": "history/jio.png"
+  }
+]
